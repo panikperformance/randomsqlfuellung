@@ -1,0 +1,25 @@
+auto
+
+id	order.price	order.vehicle	order.licensePlate	order.orderDate	order.pickupDate	order.days	contactperson.person	contactperson.phone	contactperson.email	contactperson.address.street	contactperson.address.zipcity	contactperson.address.state
+
+firmen
+
+id	company.name	company.branch	company.establisheddate	company.employees	company.annualturnover	company.taxid	contactperson.person	contactperson.telephone	contactperson.email	address.street	address.zipcity	address.state	address.internet
+
+
+personen
+
+nr	salutation	title	firstname	lastname	zipcity	address	telephone	email	datebirthday
+
+flüge
+
+
+nr	foreign_id	airline	aircraft	flight_nr	departure_time	gate	destination	delayed
+
+
+
+party
+
+
+
+id	eventName	contactPerson	bookedDate	eventDate	chanceled	eventHotline	ticketHotline	internet	email	ticketClass	ticketAvailable	ticketPrice
